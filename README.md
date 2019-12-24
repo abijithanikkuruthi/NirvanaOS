@@ -10,6 +10,4 @@ In case of any queries please reach out to -
 Abijith Anikkuruthi -> abijithanikkuruthi@gmail.com
 Athul Sukumaran ->  iamathulsukumaran@gmail.com
 
-Download and enjoy!
-
-https://www.dropbox.com/scl/fi/df13x87doligfphdo94lw/nirvana_os.tar.xz
+Download link: https://www.dropbox.com/scl/fi/df13x87doligfphdo94lw/nirvana_os.tar.xz
